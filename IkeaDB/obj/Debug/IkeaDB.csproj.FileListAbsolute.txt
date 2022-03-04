@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\bin\Debug\IKEA.mdf
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\bin\Debug\IKEA_log.ldf
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\bin\Debug\IkeaDB.exe.config
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\bin\Debug\IkeaDB.exe
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\bin\Debug\IkeaDB.pdb
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.Form1.resources
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.Properties.Resources.resources
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.exe
+C:\Users\opilane\source\repos\IkeaDB\IkeaDB\obj\Debug\IkeaDB.pdb
